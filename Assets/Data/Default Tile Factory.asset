@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f45eec53dc74ca48ae135ce6fe786cc, type: 3}
+  m_Name: Default Tile Factory
+  m_EditorClassIdentifier: 
+  TwoPrefab: {fileID: 5217894716676015799, guid: 3acaff914276c924bbcdf983345a6e1e, type: 3}
+  FourPrefab: {fileID: 1339196274300747880, guid: ca6ad87be0fcd3946be11b223da6ea0c, type: 3}
+  EightPrefab: {fileID: 7846073784863569033, guid: 48c76be530e65684b8a5063df9073897, type: 3}
+  SixteenPrefab: {fileID: 6817990718422412381, guid: 32c3bc8ffd3a0e140a61cdabb5ef3e40, type: 3}
+  ThirtyTwoPrefab: {fileID: 4512789516928931444, guid: ca6522f5b787ec5489d7c73e24d83c83, type: 3}
+  SixtyFourPrefab: {fileID: 5349688617667325973, guid: 3a644f919be2c8944b4790f12a59fd8e, type: 3}
+  OneHundredTwentyEightPrefab: {fileID: 2716845183872156843, guid: fa8a3cf7e18d8aa45b2eba6665d8b188, type: 3}
+  TwoHundredFiftySixPrefab: {fileID: 7821281418101278478, guid: 80fffb26832d7044cb781f0b95e21af2, type: 3}
+  FiveHundredTwelvePrefab: {fileID: 335438768762604682, guid: 27ea3048b60056c45b89e84d70856a8c, type: 3}
+  OneThousandTwoHundredFiftySixPrefab: {fileID: 6306419736358409266, guid: 3a76a979d9aeb4e44a887faa2fe565b1, type: 3}
