@@ -22,6 +22,7 @@ namespace Puzzle2048
 
         public void Recycle()
         {
+            //尝试复用tile,造成了一些麻烦
             DestroyImmediate(this.gameObject);
             //OriginFactory.Reclaim(this);
         }

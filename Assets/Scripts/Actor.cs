@@ -14,14 +14,7 @@ namespace Puzzle2048
                 GameObject child = transform.GetChild(0).gameObject;
                 child.GetComponent<Actor>()?.RemoveAllAttachActors();
                 child.SetActive(false);
-                if (Application.isEditor)
-                {
-                    DestroyImmediate(child);
-                }
-                else
-                {
-                    DestroyImmediate(child);
-                }
+                DestroyImmediate(child);
             }
         }
 
